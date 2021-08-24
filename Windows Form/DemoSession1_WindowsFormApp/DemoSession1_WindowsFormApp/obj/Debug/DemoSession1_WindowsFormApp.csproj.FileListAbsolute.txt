@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\bin\Debug\DemoSession1_WindowsFormApp.exe.config
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\bin\Debug\DemoSession1_WindowsFormApp.exe
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\bin\Debug\DemoSession1_WindowsFormApp.pdb
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\obj\Debug\DemoSession1_WindowsFormApp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\obj\Debug\DemoSession1_WindowsFormApp.Properties.Resources.resources
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\obj\Debug\DemoSession1_WindowsFormApp.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\obj\Debug\DemoSession1_WindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\obj\Debug\DemoSession1_WindowsFormApp.exe
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\obj\Debug\DemoSession1_WindowsFormApp.pdb
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\obj\Debug\DemoSession1_WindowsFormApp.Form1.resources
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\obj\Debug\DemoSession1_WindowsFormApp.Form2.resources
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\bin\Debug\BCrypt.Net.dll
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\bin\Debug\BCrypt.Net.xml
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\obj\Debug\DemoSession1_WindowsFormApp.csproj.CopyComplete
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\obj\Debug\DemoSession1_WindowsFormApp.Form3.resources
+C:\Users\DELL\source\repos\DemoSession1_WindowsFormApp\DemoSession1_WindowsFormApp\obj\Debug\DemoSession1_WindowsFormApp.Form4.resources

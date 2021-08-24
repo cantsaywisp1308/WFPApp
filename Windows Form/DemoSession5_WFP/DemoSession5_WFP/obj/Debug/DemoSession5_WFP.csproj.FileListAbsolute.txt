@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Windows Form\DemoSession5_WFP\DemoSession5_WFP\bin\Debug\DemoSession5_WFP.exe.config
+C:\Users\DELL\source\repos\Windows Form\DemoSession5_WFP\DemoSession5_WFP\bin\Debug\DemoSession5_WFP.exe
+C:\Users\DELL\source\repos\Windows Form\DemoSession5_WFP\DemoSession5_WFP\bin\Debug\DemoSession5_WFP.pdb
+C:\Users\DELL\source\repos\Windows Form\DemoSession5_WFP\DemoSession5_WFP\obj\Debug\DemoSession5_WFP.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Windows Form\DemoSession5_WFP\DemoSession5_WFP\obj\Debug\DemoSession5_WFP.Form1.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession5_WFP\DemoSession5_WFP\obj\Debug\DemoSession5_WFP.Properties.Resources.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession5_WFP\DemoSession5_WFP\obj\Debug\DemoSession5_WFP.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Windows Form\DemoSession5_WFP\DemoSession5_WFP\obj\Debug\DemoSession5_WFP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Windows Form\DemoSession5_WFP\DemoSession5_WFP\obj\Debug\DemoSession5_WFP.exe
+C:\Users\DELL\source\repos\Windows Form\DemoSession5_WFP\DemoSession5_WFP\obj\Debug\DemoSession5_WFP.pdb
+C:\Users\DELL\source\repos\Windows Form\DemoSession5_WFP\DemoSession5_WFP\obj\Debug\DemoSession5_WFP.Form2.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession5_WFP\DemoSession5_WFP\obj\Debug\DemoSession5_WFP.Login.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession5_WFP\DemoSession5_WFP\obj\Debug\DemoSession5_WFP.Form3.resources

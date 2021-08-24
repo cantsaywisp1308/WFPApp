@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WFPDemoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="FullName" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Birthday" Type="DateTime" Precision="0" />
+    <Property Name="Email" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="Boolean" />
+    <Property Name="SecurityCode" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Tickets" Relationship="WFPDemoModel.FK_Ticket_Account" FromRole="Account" ToRole="Ticket" />
+    <NavigationProperty Name="Tickets1" Relationship="WFPDemoModel.FK_Ticket_Account1" FromRole="Account" ToRole="Ticket" />
+  </EntityType>
+  <EntityContainer Name="DatabaseContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Accounts" EntityType="Self.Account" />
+    <EntitySet Name="Roles" EntityType="WFPDemoModel.Role" />
+    <EntitySet Name="Priorities" EntityType="WFPDemoModel.Priority" />
+    <EntitySet Name="Tickets" EntityType="WFPDemoModel.Ticket" />
+    <AssociationSet Name="FK_Ticket_Account" Association="WFPDemoModel.FK_Ticket_Account">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="Ticket" EntitySet="Tickets" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ticket_Account1" Association="WFPDemoModel.FK_Ticket_Account1">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="Ticket" EntitySet="Tickets" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Ticket_Priority" Association="WFPDemoModel.FK_Ticket_Priority">
+      <End Role="Priority" EntitySet="Priorities" />
+      <End Role="Ticket" EntitySet="Tickets" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Priority">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Tickets" Relationship="WFPDemoModel.FK_Ticket_Priority" FromRole="Priority" ToRole="Ticket" />
+  </EntityType>
+  <EntityType Name="Ticket">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Subject" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Body" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Created" Type="DateTime" Precision="0" />
+    <Property Name="Account_Id" Type="Int32" />
+    <Property Name="Priority_Id" Type="Int32" />
+    <Property Name="AccountIDProcess" Type="Int32" />
+    <NavigationProperty Name="Account" Relationship="WFPDemoModel.FK_Ticket_Account" FromRole="Ticket" ToRole="Account" />
+    <NavigationProperty Name="Account1" Relationship="WFPDemoModel.FK_Ticket_Account1" FromRole="Ticket" ToRole="Account" />
+    <NavigationProperty Name="Priority" Relationship="WFPDemoModel.FK_Ticket_Priority" FromRole="Ticket" ToRole="Priority" />
+  </EntityType>
+  <Association Name="FK_Ticket_Account">
+    <End Type="WFPDemoModel.Account" Role="Account" Multiplicity="0..1" />
+    <End Type="WFPDemoModel.Ticket" Role="Ticket" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Ticket">
+        <PropertyRef Name="AccountIDProcess" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ticket_Account1">
+    <End Type="WFPDemoModel.Account" Role="Account" Multiplicity="0..1" />
+    <End Type="WFPDemoModel.Ticket" Role="Ticket" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Ticket">
+        <PropertyRef Name="Account_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Ticket_Priority">
+    <End Type="WFPDemoModel.Priority" Role="Priority" Multiplicity="0..1" />
+    <End Type="WFPDemoModel.Ticket" Role="Ticket" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Priority">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Ticket">
+        <PropertyRef Name="Priority_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

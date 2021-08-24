@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Windows Form\DemoSession6_WFP\DemoSession6_WFP\bin\Debug\DemoSession6_WFP.exe.config
+C:\Users\DELL\source\repos\Windows Form\DemoSession6_WFP\DemoSession6_WFP\bin\Debug\DemoSession6_WFP.exe
+C:\Users\DELL\source\repos\Windows Form\DemoSession6_WFP\DemoSession6_WFP\bin\Debug\DemoSession6_WFP.pdb
+C:\Users\DELL\source\repos\Windows Form\DemoSession6_WFP\DemoSession6_WFP\obj\Debug\DemoSession6_WFP.Form1.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession6_WFP\DemoSession6_WFP\obj\Debug\DemoSession6_WFP.Properties.Resources.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession6_WFP\DemoSession6_WFP\obj\Debug\DemoSession6_WFP.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Windows Form\DemoSession6_WFP\DemoSession6_WFP\obj\Debug\DemoSession6_WFP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Windows Form\DemoSession6_WFP\DemoSession6_WFP\obj\Debug\DemoSession6_WFP.exe
+C:\Users\DELL\source\repos\Windows Form\DemoSession6_WFP\DemoSession6_WFP\obj\Debug\DemoSession6_WFP.pdb
+C:\Users\DELL\source\repos\Windows Form\DemoSession6_WFP\DemoSession6_WFP\obj\Debug\DemoSession6_WFP.Form2.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession6_WFP\DemoSession6_WFP\obj\Debug\DemoSession6_WFP.Form3.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession6_WFP\DemoSession6_WFP\obj\Debug\DemoSession6_WFP.UserControlHello.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession6_WFP\DemoSession6_WFP\obj\Debug\DemoSession6_WFP.UserControlHi.resources

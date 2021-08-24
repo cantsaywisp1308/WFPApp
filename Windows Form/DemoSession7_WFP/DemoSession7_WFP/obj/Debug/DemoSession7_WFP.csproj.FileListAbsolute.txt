@@ -1,0 +1,57 @@
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\DemoSession7_WFP.exe.config
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\DemoSession7_WFP.exe
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\DemoSession7_WFP.pdb
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.Form1.resources
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.FormMenu1.resources
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.FormMenu2.resources
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.Properties.Resources.resources
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.exe
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.pdb
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.Form2.resources
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.UserControlMenu1.resources
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.UserControlMenu2.resources
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.UserControlMenu3.resources
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.UserControlMenu4.resources
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\BCrypt.Net.dll
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\BCrypt.Net.xml
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.Login.resources
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.Register.resources
+C:\Users\DELL\source\repos\C\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.csproj.CopyComplete
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\DemoSession7_WFP.exe.config
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\DemoSession7_WFP.exe
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\DemoSession7_WFP.pdb
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\BCrypt.Net.dll
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\BCrypt.Net.xml
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.Form1.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.Form2.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.FormMain.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.FormMenu1.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.FormMenu2.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.Login.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.Properties.Resources.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.Register.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.UserControlMenu4.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.UserControlMenu1.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.UserControlMenu2.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.UserControlMenu3.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.csproj.CopyComplete
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.exe
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.pdb
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.UserControlProfile.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.UserControlProductList.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.UserControlAddProduct.resources
+C:\Users\DELL\source\repos\Windows Form\DemoSession7_WFP\DemoSession7_WFP\obj\Debug\DemoSession7_WFP.UserControlUpdateProduct.resources
